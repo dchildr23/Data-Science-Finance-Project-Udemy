@@ -5,8 +5,7 @@ Here's a clean README for the project:
 # 📈 Bank Stock Finance Analysis (2006–2016)
 
 ## Overview
-An exploratory data analysis (EDA) project examining the stock performance of major U.S. banks throughout the 2008 financial crisis and into early 2016. This project is intended for **practice with pandas and data visualization** — not as financial advice.
-
+An exploratory data analysis (EDA) project examining the stock performance of major U.S. banks throughout the 2008 financial crisis and into early 2016. 
 ## Banks Analyzed
 - Bank of America (BAC)
 - CitiGroup (C)
