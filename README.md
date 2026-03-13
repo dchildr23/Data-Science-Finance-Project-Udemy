@@ -1,7 +1,3 @@
-Here's a clean README for the project:
-
----
-
 # 📈 Bank Stock Finance Analysis (2006–2016)
 
 ## Overview
